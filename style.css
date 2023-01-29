@@ -1,5 +1,5 @@
 @import url(nullStyle.css);
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap'); 
 
 header {
     background:linear-gradient(90deg,rgba(250, 250, 250, 1),rgba(250, 250, 250, 0)), url(img/headerCover.png);
@@ -54,4 +54,68 @@ header {
     font-size: 14px;
     line-height: 24px;
     color: rgba(115, 115, 115, 1);
+}
+
+.BAP_block {
+    margin-top: 161px;
+    height: 420px;
+}
+
+.BAP_block__title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    color:rgba(37, 43, 66, 1);
+    font-size: 58px;
+    line-height: 80px;
+    letter-spacing: 0.2px;
+    width: 300px;
+    height: 240px;
+}
+
+.BAP_block__inf {
+    color: rgba(115, 115, 115, 1);
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;  
+    letter-spacing: 0.2px;
+    width: 380px;
+    height: 60px;  
+    margin:  30px 0; 
+}
+
+.BAP_block__buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 355px;
+}
+.btn {
+    height: 48px;
+    border-radius: 37px;
+    padding: 10px 36px;
+    background-color: transparent;
+}
+.GQN_btn {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 123, 71, 1);
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.2px;
+}
+.LM_btn { 
+    color: rgba(13, 92, 99, 1);
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    border: 1px solid rgba(13, 92, 99, 1);
 }
