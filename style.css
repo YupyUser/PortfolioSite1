@@ -183,6 +183,11 @@ header {
     align-items: center;
 }
 .element_text {
+    text-align: center;
+    margin: auto 15px ;
+}
+
+.adtnl_text {
     color: #737373;
     font-family: 'Montserrat';
     font-style: normal;
@@ -190,4 +195,15 @@ header {
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.2px;
+} 
+
+.main_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color:rgba(37, 43, 66, 1)
 }
