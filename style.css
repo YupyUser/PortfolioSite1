@@ -207,3 +207,18 @@ header {
     letter-spacing: 0.2px;
     color:rgba(37, 43, 66, 1)
 }
+
+.WWA_block {
+
+}
+
+
+.WWA_block__main_title {
+    text-align: center;
+}
+
+.WWA_block__main_inf {
+    text-align: center;
+    max-width: 516px;
+    margin: 0 auto;
+}
