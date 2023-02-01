@@ -325,3 +325,21 @@ header {
 }
 
 
+.WCS_block {
+    background-color: #17213C;
+}
+
+.WCS_main_title {
+  color:  #FFFFFF;
+  padding-top: 60px;
+}
+.WCS_main_adthnl_title {
+   color: #FFFFFF;
+   max-width:470px;
+   text-align: center;
+   margin: 0 auto;
+   padding-top: 10px;
+   padding-bottom: 90px;
+}
+
+
