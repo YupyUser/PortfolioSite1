@@ -210,7 +210,8 @@ header {
 
 .WWA_block {
     background-color: rgba(250, 250, 250, 1);
-    padding-top: 100px ;
+    padding-top: 100px;
+    overflow:hidden;
 }
 .WWA_content {
     position: relative;
@@ -321,4 +322,5 @@ header {
     width: 330px;
     margin-top: 30px;
 }
+
 
