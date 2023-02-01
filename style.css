@@ -212,6 +212,7 @@ header {
     background-color: rgba(250, 250, 250, 1);
     padding-top: 100px;
     overflow:hidden;
+    height: 890px;
 }
 .WWA_content {
     position: relative;
