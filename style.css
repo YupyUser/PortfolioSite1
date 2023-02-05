@@ -437,4 +437,30 @@ header {
     margin: 30px 51px 5px 51px;
 }
 
+.bottom_block {
+    height: 1223px;
+    background-color: #252B42;
+}
+.WHB_block {
+    width: 1150px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
 
+.WHB__main_inf_container {
+    display: flex;
+    justify-content: space-between;
+
+}
+.WHB_title_text_container {
+    width: 465px;
+}
+
+.WHB_main_title {
+    color: #FFFFFF;
+    text-align: left;
+}
+.WHB__main_adtnl_inf {
+    color:#FFFFFF ;
+}
