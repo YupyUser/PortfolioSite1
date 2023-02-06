@@ -451,6 +451,7 @@ header {
 .WHB__main_inf_container {
     display: flex;
     justify-content: space-between;
+    margin:  100px 0 150px 0 ;
 
 }
 .WHB_title_text_container {
