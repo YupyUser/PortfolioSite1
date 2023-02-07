@@ -537,4 +537,51 @@ letter-spacing: 0.2px;
     height: 667px;
 }
 
+.footer {
+    height: 340px;
+    background-color: #FFFFFF;
+    margin-top: 100px ;
+}
+.footer_content {
+    width: 1150px;
+    margin: 0 auto;
+    display: flex;
+    padding: 80px 56.5px;
+    justify-content: space-between;
+}
+
+.footer_column__title {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0.1px;
+color: #252B42;
+}
+.footer_column_inf {
+    margin: 25px 0;
+}
+.footer_column_links a {
+    margin-top: 10px;
+}
+.footer_column_links {
+    display: flex;
+    flex-direction: column;
+}
+.footer_columns {
+    display: flex;
+    justify-content: space-between;
+}
+.footer_column {
+    width: 240px;
+}
+.footer_column__title {
+    margin-bottom: 10px;
+}
+.footer_column_social {
+    width: 160px;
+    display: flex;
+    justify-content: space-between;
+}
 
