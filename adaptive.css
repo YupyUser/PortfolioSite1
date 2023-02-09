@@ -1,0 +1,39 @@
+#search-img {
+    display: none;
+}
+#shop-img {
+    display: none;
+}
+#burgerGrey-img {
+    display: none;
+}
+.header_main_title__mobile {
+    display: none;
+}
+
+@media (max-width: 414px) {
+
+    .header-nav {
+        background-color: #F6F6F6;
+    }
+    #burger {
+        display: none;
+    }
+    .header_main_title__nav_block {
+        display: none;
+    }
+
+    #search-img {
+        display: block;
+    }
+    #shop-img {
+        display: block;
+    }
+    #burgerGrey-img {
+        display: block;
+    }
+    .header_main_title__mobile {
+        display: flex;
+    }
+
+}
